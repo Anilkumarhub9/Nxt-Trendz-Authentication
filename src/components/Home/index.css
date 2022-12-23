@@ -1,0 +1,24 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px;
+  font-family: 'Roboto';
+}
+.home-mobile-img {
+  height: 430px;
+  width: 380px;
+}
+.home-content {
+  padding: 30px;
+}
+.shop-now-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  height: 30px;
+  width: 140px;
+  border-radius: 8px;
+  border-width: 0px;
+  margin-top: 15px;
+}
